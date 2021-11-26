@@ -2,8 +2,7 @@
 ## I`m Vitaliy 👋     
 ## I'm a Front-End Developer
 - 💪 I like to learn something new
-- 💻 My stack is  HTML / CSS / JS / REACT / REDUX
- - 🔍 Looking for a job
+- 💻 My stack is  HTML / CSS / JS / REACT(native) / REDUX
 
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalVasFlame&layout=compact&show_icons=true&theme=tokyonight)
